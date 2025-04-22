@@ -1,0 +1,4 @@
+FUNDAMENTOS DE BD 
+
+ #UNA WEB PARA PODER VER LA DOCUMENTACIÓN DE SQL 	#https://www.w3schools.com/sql/default.asp
+
